@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deployment/static/css/main.9f973c8f.css",
-    "main.js": "/deployment/static/js/main.094a936d.js",
+    "main.js": "/deployment/static/js/main.c257b786.js",
     "static/js/787.bfd02cd8.chunk.js": "/deployment/static/js/787.bfd02cd8.chunk.js",
     "static/media/world.png": "/deployment/static/media/world.841f0bbc8bbd23a1e836.png",
     "static/media/camerounmap.gif": "/deployment/static/media/camerounmap.48f07affe591d0411eb4.gif",
@@ -11,11 +11,11 @@
     "static/media/somaliamap.gif": "/deployment/static/media/somaliamap.a649efc00f3cc8093656.gif",
     "index.html": "/deployment/index.html",
     "main.9f973c8f.css.map": "/deployment/static/css/main.9f973c8f.css.map",
-    "main.094a936d.js.map": "/deployment/static/js/main.094a936d.js.map",
+    "main.c257b786.js.map": "/deployment/static/js/main.c257b786.js.map",
     "787.bfd02cd8.chunk.js.map": "/deployment/static/js/787.bfd02cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f973c8f.css",
-    "static/js/main.094a936d.js"
+    "static/js/main.c257b786.js"
   ]
 }
