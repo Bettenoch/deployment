@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deployment/static/css/main.641c59bf.css",
+    "main.js": "/deployment/static/js/main.686a913f.js",
+    "static/js/787.bfd02cd8.chunk.js": "/deployment/static/js/787.bfd02cd8.chunk.js",
+    "static/media/world.png": "/deployment/static/media/world.841f0bbc8bbd23a1e836.png",
+    "static/media/camerounmap.gif": "/deployment/static/media/camerounmap.48f07affe591d0411eb4.gif",
+    "static/media/ethiopiamap.gif": "/deployment/static/media/ethiopiamap.655dcc6a99b4aecba1b7.gif",
+    "static/media/kenyamap.gif": "/deployment/static/media/kenyamap.ef52c057be3b0ecd9639.gif",
+    "static/media/rwanda07map.gif": "/deployment/static/media/rwanda07map.c3ff1b51ebecb12df56e.gif",
+    "static/media/somaliamap.gif": "/deployment/static/media/somaliamap.a649efc00f3cc8093656.gif",
+    "static/media/humidity1.png": "/deployment/static/media/humidity1.2ece0eef4eb56c68ed36.png",
+    "static/media/windwarningsign.png": "/deployment/static/media/windwarningsign.7c6704606dc2dbf97bc7.png",
+    "index.html": "/deployment/index.html",
+    "main.641c59bf.css.map": "/deployment/static/css/main.641c59bf.css.map",
+    "main.686a913f.js.map": "/deployment/static/js/main.686a913f.js.map",
+    "787.bfd02cd8.chunk.js.map": "/deployment/static/js/787.bfd02cd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641c59bf.css",
+    "static/js/main.686a913f.js"
+  ]
+}
