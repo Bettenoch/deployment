@@ -41,7 +41,7 @@ const WeatherData = () => {
     if (status === 'waiting') {
       dispatch(fetchData());
     }
-  }, [dispatch]);
+  });
 
   if (status === 'waiting') {
     return <h1>Loading...</h1>;
