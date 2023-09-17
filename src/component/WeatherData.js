@@ -74,7 +74,7 @@ const WeatherData = () => {
         {
       searchResult.map((country) => (
         <article key={country.name} className="country-weather">
-          <Link to={`/city/${country.name}`} className="hall">
+          <Link to="/" className="hall">
             <div className="card">
               <div className="weather-chart">
                 {countryMap[country.name] && (
