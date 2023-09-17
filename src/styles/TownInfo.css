@@ -1,0 +1,92 @@
+.town-bar {
+  display: flex;
+  flex-direction: column;
+}
+
+.town-head {
+  display: flex;
+  gap: 3rem;
+  background-color: #3d5a80;
+  padding: 1rem 2rem;
+}
+
+.more-details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6f90af;
+  padding: 2rem;
+  gap: 4rem;
+}
+
+.weather-breakdown {
+  color: azure;
+  padding-left: 3rem;
+  text-transform: uppercase;
+}
+
+.names {
+  color: white;
+  font-weight: 600;
+}
+
+.weather-descp {
+  color: azure;
+}
+
+.title {
+  color: azure;
+  text-transform: uppercase;
+}
+
+.town-bottom {
+  background-color: #3d5a80;
+  align-items: center;
+  padding-block: 2rem;
+}
+
+.box-info {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rgb(233, 211, 211);
+}
+
+.img-map {
+  width: 120px;
+  height: 120px;
+}
+
+.temp-box,
+.wind-box,
+.degree-box {
+  border: 1px solid rgb(233, 211, 211);
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+  padding: 1rem 2rem;
+  background-color: #648c94;
+}
+
+.box:nth-of-type(even) {
+  background-color: #98c1d9;
+}
+
+.wind4 {
+  width: 3em;
+  height: 3em;
+}
+
+@media only screen and (max-width: 700px) {
+  .box-info {
+    border: none;
+  }
+
+  .temp-box,
+  .wind-box,
+  .degree-box {
+    border: none;
+  }
+}

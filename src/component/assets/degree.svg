@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" id="svg2" viewBox="0 0 205.35 632.53" version="1.1" inkscape:version="0.91 r13725">
+  <defs id="defs4">
+    <linearGradient id="linearGradient3924" y2="411.16" gradientUnits="userSpaceOnUse" x2="600.22" y1="803.81" x1="601.54">
+      <stop id="stop3904" style="stop-color:#00ff00" offset="0"/>
+      <stop id="stop3910" style="stop-color:#f7ff00" offset=".61953"/>
+      <stop id="stop3906" style="stop-color:#ff0000" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3926" gradientUnits="userSpaceOnUse" cy="790.63" cx="581.71" gradientTransform="matrix(.52070 -.29138 .30720 .53690 35.938 535.6)" r="39.374">
+      <stop id="stop3914" style="stop-color:#ffffff" offset="0"/>
+      <stop id="stop3916" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="layer1" transform="translate(-259.65 -264.84)">
+    <g id="g3920" transform="translate(-232.16 4.7662)">
+      <path id="path3893" style="fill:url(#linearGradient3924)" d="m541.25 347.62v365.47c0 1.5319 0.10158 3.0304 0.21875 4.5312-22.689 17.218-37.344 44.477-37.344 75.156 0 52.073 42.209 94.281 94.281 94.281 52.073 0 94.281-42.209 94.281-94.281 0-30.676-14.659-57.938-37.344-75.156 0.11717-1.5008 0.1875-2.9993 0.1875-4.5312v-365.41h-111.88c-0.81045 0-1.6042-0.0294-2.4062-0.0625z"/>
+      <path id="path3895" style="fill:url(#radialGradient3926)" d="m616.08 788.61a34.374 33.713 0 1 1 -68.747 0 34.374 33.713 0 1 1 68.747 0z" transform="matrix(2.0769 0 0 2.1373 -644.96 -906.11)"/>
+    </g>
+    <path id="path3069" style="stroke-linejoin:bevel;stroke:#000000;stroke-width:10;fill:none" d="m365.72 269.83c-31.657 0-57.156 25.468-57.156 57.125v391.44c0 1.5319 0.10158 3.0304 0.21875 4.5312-22.689 17.218-37.344 44.477-37.344 75.156 0 52.073 42.209 94.281 94.281 94.281 52.073 0 94.281-42.209 94.281-94.281 0-30.676-14.659-57.938-37.344-75.156 0.11717-1.5008 0.1875-2.9993 0.1875-4.5312v-391.44c0-31.657-25.468-57.125-57.125-57.125z"/>
+    <path id="path3869" style="stroke:#000000;stroke-width:10;fill:none" d="m321.9 712.36h87.642"/>
+    <path id="path3873" style="stroke:#000000;stroke-width:10;fill:none" d="m321.9 618.17h87.642"/>
+    <path id="path3877" style="stroke:#000000;stroke-width:10;fill:none" d="m321.9 523.97h87.642"/>
+    <path id="path3881" style="stroke:#000000;stroke-width:10;fill:none" d="m321.9 429.77h87.642"/>
+    <path id="path3889" style="stroke:#000000;stroke-width:10;fill:none" d="m321.9 335.57h87.642"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Thermometer</dc:title>
+        <dc:date>2011-01-26T10:52:53</dc:date>
+        <dc:description>A simple thermometer with a color spectrum going from green over yellow to red. The gradient can be resized vertically to your wishes.</dc:description>
+        <dc:source>https://openclipart.org/detail/110065/thermometer-by-coredump</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>coredump</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>color</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>science</rdf:li>
+            <rdf:li>thermometer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

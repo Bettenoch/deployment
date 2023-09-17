@@ -1,0 +1,174 @@
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #6f90af;
+  padding: 1rem 2rem;
+}
+
+.icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.home-title {
+  color: azure;
+  font-size: 1.8rem;
+}
+
+.search-bar {
+  width: max-content;
+  height: max-content;
+  padding: 1rem;
+}
+
+.world-container {
+  background-color: #3d5a80;
+}
+
+.world-text {
+  color: azure;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+.world-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.world-map {
+  width: 20rem;
+}
+
+.country-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.country-weather {
+  border: 1px solid rgb(233, 211, 211);
+  display: flex;
+  flex: 1;
+  background-color: #98c1d9;
+}
+
+.country-weather:nth-child(even) {
+  background-color: #648c94;
+}
+
+.hall {
+  padding: 3em 4em;
+  text-decoration: none;
+  list-style: none;
+}
+
+.card {
+  display: flex;
+  gap: 2rem;
+}
+
+.card-bottom {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  list-style: none;
+}
+
+.right-icon {
+  width: 3em;
+}
+
+.country-name {
+  align-items: flex-end;
+  text-decoration: none !important;
+  list-style: none !important;
+  font-weight: 800;
+  color: azure;
+  text-transform: uppercase;
+}
+
+.temp-info {
+  text-decoration: none;
+  list-style: none;
+  font-weight: 400;
+  color: azure;
+}
+
+.temp-dt {
+  text-decoration: none;
+  list-style: none;
+}
+
+@media only screen and (max-width: 700px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .country-weather {
+    border: none;
+    background-color: #98c1d9;
+  }
+
+  .country-weather:nth-child(even) {
+    background-color: #648c94;
+  }
+
+  .world-map {
+    max-width: 10rem;
+  }
+
+  .world-text {
+    font-size: 1rem;
+  }
+
+  .img-map {
+    max-width: 80px;
+    max-height: 80px;
+  }
+
+  .hall {
+    padding: 1em 1em;
+  }
+
+  .country-info {
+    display: grid;
+    grid-template-areas:
+      "one  two"
+      "three four"
+      "five six"
+      "seven seven";
+  }
+
+  .country-weather:nth-of-type(1) {
+    grid-area: one;
+  }
+
+  .country-weather:nth-of-type(2) {
+    grid-area: two;
+  }
+
+  .country-weather:nth-of-type(3) {
+    grid-area: four;
+  }
+
+  .country-weather:nth-of-type(4) {
+    grid-area: three;
+  }
+
+  .country-weather:nth-of-type(5) {
+    grid-area: five;
+  }
+
+  .country-weather:nth-of-type(6) {
+    grid-area: six;
+  }
+
+  .country-weather:nth-of-type(7) {
+    grid-area: seven;
+  }
+
+  .card {
+    flex-direction: column;
+  }
+}
